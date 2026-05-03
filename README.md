@@ -5,6 +5,7 @@
 
 ## 🔍 Project Overview
 Flight ticket pricing is a prime example of **dynamic pricing**, where rates fluctuate based on demand, timing, and competition. This project focuses on developing a robust machine learning pipeline to forecast these prices, providing transparency for consumers and strategic insights for market analysts.
+By segmenting the dataset by cabin class, this study captured class-specific pricing behaviors that are often overlooked in existing studies, resulting in a more granular and accurate prediction.
 
 ## 🔬 Technical Methodology: Stacking Ensemble
 To overcome the limitations of individual algorithms, I implemented a **Stacking Ensemble** architecture. This method combines the strengths of multiple models to achieve superior predictive accuracy and stability.
